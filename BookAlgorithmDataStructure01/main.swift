@@ -1,12 +1,31 @@
-//
-//  main.swift
-//  BookAlgorithmDataStructure01
-//
-//  Created by Shin Inaba on 2020/01/11.
-//  Copyright © 2020 Shin Inaba. All rights reserved.
-//
-
 import Foundation
 
-print("Hello, World!")
-
+//max3()
+//exec_max3_func()
+//exec_med3()
+//exec_med3a()
+//judge_sign()
+//branch1()
+//branch2()
+//branch2a()
+//sum1ton_while()
+//sum1ton_for()
+//sum_gauss()
+//sum()
+//sum_verbose1()
+//sum_verbose2()
+//alternative1()
+//alternative1a()
+//alternative2()
+//alternative2a()
+//print_stars1()
+//print_stars2()
+//sum1ton_positive()
+//rectangle()
+//for_else()
+//skip1()
+//skip2()
+//twoDigits1()
+//multiplication_table()
+//triangle_lb()
+triangle_rb()
